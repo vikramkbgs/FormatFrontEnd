@@ -163,6 +163,9 @@ hr {
     .image-wrapper {
         grid-template-columns: 1fr;
     }
+        .image-3 {
+            grid-column: 1/2;
+        }
 }
 
 @media only screen and (max-width: 600px) {
