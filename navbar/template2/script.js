@@ -1,0 +1,1 @@
+console.log("i'm script of template2.");
