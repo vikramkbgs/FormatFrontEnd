@@ -1,0 +1,1 @@
+console.log("i'm js of template3.");
